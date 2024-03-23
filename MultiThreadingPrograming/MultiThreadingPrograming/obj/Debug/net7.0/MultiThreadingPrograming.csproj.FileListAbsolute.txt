@@ -1,0 +1,15 @@
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/bin/Debug/net7.0/MultiThreadingPrograming
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/bin/Debug/net7.0/MultiThreadingPrograming.deps.json
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/bin/Debug/net7.0/MultiThreadingPrograming.runtimeconfig.json
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/bin/Debug/net7.0/MultiThreadingPrograming.dll
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/bin/Debug/net7.0/MultiThreadingPrograming.pdb
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/MultiThreadingPrograming.csproj.AssemblyReference.cache
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/MultiThreadingPrograming.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/MultiThreadingPrograming.AssemblyInfoInputs.cache
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/MultiThreadingPrograming.AssemblyInfo.cs
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/MultiThreadingPrograming.csproj.CoreCompileInputs.cache
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/MultiThreadingPrograming.dll
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/refint/MultiThreadingPrograming.dll
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/MultiThreadingPrograming.pdb
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/MultiThreadingPrograming.genruntimeconfig.cache
+/Volumes/Mac/Advance-C#/MultiThreadingPrograming/MultiThreadingPrograming/MultiThreadingPrograming/obj/Debug/net7.0/ref/MultiThreadingPrograming.dll
